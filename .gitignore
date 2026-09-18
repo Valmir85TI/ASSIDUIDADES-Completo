@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+.idea/
+
+# Planilhas e documentos com dados pessoais de funcionários (CPF, nome,
+# valores de benefícios) - nunca versionar. Veja o README.
+*.xlsx
+*.docx
